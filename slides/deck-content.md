@@ -58,7 +58,32 @@ SOURCE: BigQuery chargebee.transaction filtered to type='payment' AND status='su
 
 ═══════════════════════════════════════════════════════════════
 
-## SLIDE 4 — LOOK AT THIS GIANT LIST OF THINGS WE DID FOR YOU
+## SLIDE 4 — IS THIS JUST RETENTION GROWTH? NO.
+
+HEADLINE:
+100% of YoY revenue growth is from NEW acquisition. Retained cash actually DECLINED 8.7% YoY. The growth narrative isn't about retention — it's about MH-1 turning around new-customer acquisition.
+
+BULLETS:
+• 2025 Feb–Apr: $174,923 total ($65,124 new acquisition / $109,800 retained — 37/63 split)
+• 2026 Feb–Apr: $277,130 total ($176,902 new acquisition / $100,229 retained — 64/36 split)
+• NEW acquisition cash: +$111,778 YoY (+172%)
+• RETAINED cash: −$9,571 YoY (−8.7%) — actually went DOWN
+• 109% of the YoY growth came from new acquisition. Without MH-1's contribution, total cash would be DOWN YoY because retained slipped.
+• Per FFC's CFO data, 2025 new-membership revenue was DOWN 20% YoY before MH started — that decline has reversed with MH-1.
+
+ON THE CABINETTE / "MH-1 didn't help with cohort" question:
+• The Q2 2026 cohort = 38 NEW Cabinette customers (verified) = $60,343 in cash collected
+• MH-1's specific contribution to those 38 customers: $4,499 in Meta cohort ads (165 attributable applications via CAPI), Mike's sequence automation (54 deals influenced / $28,934), Lowella's outbound (5 attributable paid sign-ups via call+SMS), retargeting + email program
+• Q1 2025 cohort = $25,000 (per Ali's own Apr 17 email) → Q2 2026 cohort = $60,343 = +141% (2.41×) lift on the same product
+• "Cabinette is all FFC" doesn't match the data — MH-1 ran the paid acquisition, automation sequences, and outbound that brought those 38 new Cabinette customers in
+
+CHART: slide-new-vs-retained.png
+
+SOURCE: BigQuery chargebee.subscription filtered by started_at, joined to chargebee.transaction for cash collected. New = subscriptions started in window; Retained = total minus new.
+
+═══════════════════════════════════════════════════════════════
+
+## SLIDE 5 — LOOK AT THIS GIANT LIST OF THINGS WE DID FOR YOU
 
 HEADLINE:
 Beyond direct revenue, here's what's been built into FFC's program since February 1, 2026 (running for $20K/month):
