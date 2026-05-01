@@ -104,6 +104,45 @@ This matches Elise's April 24 weekly recap of "$60.2K cleared the $55K minimum" 
 
 ---
 
+## CFO Q1-Q2 progress report (Kalli's email Apr 22 + screenshot)
+
+This is FFC's own CFO data. Use it as the source of truth on goals + historical:
+
+### 2026 Annual Target ($1,292,803)
+
+| Component | Annual target |
+|---|---:|
+| New Membership | $785,482 |
+| Retained Membership | $507,320 |
+| **Total Gross Membership** | **$1,292,803** |
+| Midyear (June 30) target | $616,391 |
+
+### Q1-Q2 progress per the CFO
+
+| | Q1 Target | Q1 Actual | Q1 Variance | Q2 Target | Left to achieve Q2 |
+|---|---:|---:|---:|---:|---:|
+| Gross Membership | $255,979 | **$181,804** | -$74,175 (71%) | $357,712 | $434,587 |
+
+### Final membership revenue history (the CFO's own breakdown)
+
+| | 2024 | 2025 | YoY 2024→2025 |
+|---|---:|---:|---:|
+| New Membership | $315,864 | $252,908 | **−20%** |
+| Retained Membership | $485,820 | $588,193 | **+21%** |
+| **Total** | **$801,685** | **$841,101** | **+5%** |
+
+### What this tells us about MH-1's contribution context
+
+- 2025 new membership fell 20% YoY — that's the trajectory MH-1 was hired to flip
+- The 2026 plan calls for $785,482 in new membership = **3.11× the 2025 actual** of $252,908
+- MH-1 directly attributable to date: $153,389 in 89 days = **$1,723/day pace**
+- Annualized run rate: **~$629,000** (80% of the 2026 new-member target if sustained)
+- The 2026 plan was shared with MH-1 on **April 22, 2026** (81 days into the engagement)
+
+**Source:** Kalli's email April 22, 2026 11:06 PM with the CFO's progress report screenshot attached.
+
+---
+
 ## Bullet 2 — Plan to close the $400K gap
 
 ### What's launched / in market

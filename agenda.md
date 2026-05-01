@@ -21,7 +21,23 @@ The goal of this call is to align on a few specific things, then make a clean go
 - New MRR added Feb–Apr 2026: **$30,224** vs. same window 2025 ($4,081) = **+641% (7.4× YoY)**
 - Q2 2026 cohort: **$60,343** verified from Chargebee vs. Q1 2025 cohort $25,000 = **+141% (2.41× lift)**
 
-**On the Q1 goals context:** the FFC CFO's 2026 revenue plan ($344,442 10H Annual + $142,308 10H Monthly + $298,732 Cabinette = $785,482 total) was shared with MH-1 on **April 22, 2026** — 81 days into the engagement. We were operating without those targets through most of Q1. Now that we have them, the plan in Bullet 2 is built against them.
+**On the Q1 goals context (per FFC's CFO Q1-Q2 progress report shared April 22):**
+
+| | 2024 | 2025 | 2026 Plan |
+|---|---:|---:|---:|
+| **New Membership** | $315,864 | $252,908 | **$785,482** |
+| **Retained Membership** | $485,820 | $588,193 | **$507,320** |
+| **Total** | $801,685 | $841,101 | **$1,292,803** |
+| YoY Growth | — | +5% | +54% |
+
+The line that matters most: **New Membership was DOWN 20% YoY in 2025** (from $315,864 to $252,908). Retained held up (+21%). That declining new-acquisition trend is exactly the problem MH-1 was hired to address — and the 2026 plan asks for **3.1× the 2025 new-membership total**.
+
+The CFO's Q1-Q2 view:
+- **Q1 2026 actual: $181,804** vs target $255,979 (71% to Q1 target). MH-1 was on the account for 2 of 3 Q1 months.
+- **Q2 2026 target: $357,712.** April 2026 alone collected $130,653 — already 37% of Q2 with 2 months to go.
+- The CFO plan was finalized April 22, 2026 — 81 days after MH-1 started.
+
+**Where MH-1's contribution sits against the new-membership target ($785,482 for 2026):** $153,389 directly attributable across 89 days = **$1,723/day pace = ~$629K annualized run rate** (~80% of the 2026 new-membership target if sustained).
 
 ---
 
